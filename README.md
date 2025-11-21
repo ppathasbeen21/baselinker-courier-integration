@@ -50,3 +50,5 @@ The goal is to create a shipment via API and download the shipping label (PDF) i
 ### Official documentation
 
 https://developers.baselinker.com/recruitment/docs/?hash=xgOHJOqSVDLHrTY4d0S9jMO0Nz4MI0yzh3A4o0vUml1QS0M0lo
+
+and the github repo https://github.com/ppathasbeen21/baselinker-courier-integration
